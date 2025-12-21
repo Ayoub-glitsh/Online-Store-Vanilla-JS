@@ -1,6 +1,11 @@
 # 🏬 Store Sales Analytics Dashboard
+
+
 <p align="center">
-  <img src="assets/images/dashboard.png" width="600">
+  <img src="images/photo_01.png" width="600">
+</p>
+<p align="center">
+  <img src="images/photo_02.png" width="600">
 </p>
 
 A fully interactive e-commerce sales analytics dashboard built with pure Vanilla JavaScript, featuring real-time data visualization and filtering capabilities.

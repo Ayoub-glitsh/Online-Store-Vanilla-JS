@@ -1,9 +1,5 @@
-# 🏬 Store Sales Analytics Dashboard
+# 🏬 Store Sales Analytics Dashboard      
 
-
-<p align="center">
-  <img src="https://media.tenor.com/YOUR_SELECTED_GIF_LINK.gif" width="500" alt="Fighter Jet">
-</p>
 
 
 <p align="center">
@@ -63,3 +59,19 @@ Online-Store-Vanilla-JS/
 ## 📄 License
 
 Open source – free to use for learning and portfolio purposes.
+
+---
+
+## 📄 Made by Me
+
+This project was **designed, developed, and implemented entirely by me**.  
+It demonstrates my skills in **Vanilla JavaScript, CSS, HTML, and data visualization**.  
+
+<p align="center">
+  <strong>👤 Ayoub Aguezar</strong>
+</p>
+<p align="center">
+ <img src="images/f16.gif" width="600">
+</p>
+
+

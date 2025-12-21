@@ -11,6 +11,8 @@
 
 A fully interactive e-commerce sales analytics dashboard built with pure Vanilla JavaScript, featuring real-time data visualization and filtering capabilities.
 
+**🌐 [Click here to see the live website](https://resonant-bublanina-58a7fd.netlify.app/)**
+
 ---
 
 ## 📊 Features

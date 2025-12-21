@@ -62,9 +62,9 @@ Open source – free to use for learning and portfolio purposes.
 
 ---
 
-## 📄 Made by Me
+## 📄 Made by 
 
-This project was **designed, developed, and implemented entirely by me**.  
+This project was **designed, developed, and implemented entirely by Ayoub Aguezar**.  
 It demonstrates my skills in **Vanilla JavaScript, CSS, HTML, and data visualization**.  
 
 <p align="center">

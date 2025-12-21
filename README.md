@@ -29,7 +29,7 @@ A fully interactive e-commerce sales analytics dashboard built with pure Vanilla
 ## 📁 Project Structure
 
 ```
-store-analytics/
+Online-Store-Vanilla-JS/
 ├── index.html
 ├── style.css
 ├── app.js

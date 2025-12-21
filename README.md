@@ -2,6 +2,11 @@
 
 
 <p align="center">
+  <img src="https://media.tenor.com/YOUR_SELECTED_GIF_LINK.gif" width="500" alt="Fighter Jet">
+</p>
+
+
+<p align="center">
   <img src="images/photo_01.png" width="600">
 </p>
 <p align="center">
